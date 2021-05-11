@@ -1,4 +1,4 @@
-#Star-Rating Component
+# Star-Rating Component
 
 This small project demonstrates a component to display a Rating UI based on Stars.
 
